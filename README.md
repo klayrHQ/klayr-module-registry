@@ -57,15 +57,15 @@ You find the solution for an open issue! Submit your proposal for evaluation. Th
 
 ### Stages
 
-``Backlog``: Proposed issues/modules are under review, and the Bounty Committee evaluates the submission. If the issue is found valuable for the Klayr ecosystem, the Final issue/module is moved to the next stage. 
+``Backlog``: Proposed issues/modules are under review and open to comments and suggestions from the entire community. The Bounty Committee evaluates the submissions. If any issue/module is found valuable for the Klayr ecosystem, the Final issue/module is moved to the next stage. 
 
-``Open-to-submission``: Under this label, the tasks are presented to the community for discussion and are open to application. Applicants must present solutions using the Klayr Issue template form, including the Module description, steps to reproduce it, and relevant details. 
+``Open-to-submission``: Under this label, the tasks are presented to the community and open to application. Applicants must present solutions using the Klayr Issue template form, including the Module description, steps to reproduce it, and relevant details. 
 
-``In review``: The evaluation process is done by the Bounty Committee. 
+``In review``: The evaluation process to assign the task is done by the Bounty Committee. 
 
-``Allocated``: The issue/module is assigned to a bounty hunter by the Bounty Committee. In this stage, the applicant works on the issue until completion. Revision of the task solution and verification may include requesting more information, or clarification. If we ask to resubmit the proposal with more details, take no more than 10 working days to complete it, or we'll have to move on to the next Bounty Hunter. Report your progress through: [Pull request form or link ?]
+``Allocated``: Once the issue/module is assigned to a bounty hunter, we might ask to re-write the issue/module using a KIP (Klayr Improvement Proposal) template to guarantee technical specifications and a rationale for the feature. In this stage, the applicant works on the issue until completion. Revision of the task solution and verification may include requesting more information, or clarification. If we ask to resubmit the proposal with more details, take no more than 10 working days to complete it, or we'll have to move on to the next Bounty Hunter. Progress reports are submitted through Pull requests. 
 
-``Completed``: Bounty is completed, reviewed, and approved by the Committee. After approval, you'll be requested to fill in a compliance review form to ensure eligibility (General KYC and AML requirements). Once the eligibility is confirmed, the process moves to the "Payment" stage. 
+``Completed``: Bounty is completed, and being reviewed by the Committee. After approval, you'll be requested to fill in a compliance review form to ensure eligibility (General KYC and AML requirements). For this topic, communications between participants and the Bounty Committee are conducted on Telegram. Once the eligibility is confirmed, the process moves to the "Payment" stage.  
 
 ``Payment``: Compensation in KLY tokens, with the exchange rate determined at the time of successful review confirmation.
 
