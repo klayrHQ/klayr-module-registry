@@ -7,7 +7,11 @@ Klayr’s Bounty Program thrives on community innovation to enhance our ecosyste
 
 
 ### Eligibility
-Before you apply for a bounty from Klayr, make sure you check off these criteria:
+Before you apply for a bounty from Klayr, make sure you check off these criteria. 
+
+- General KYC and AML requirements 
+
+Klayr's Bounty Program requires applicants, both individuals and companies, to undergo a Know Your Customer (KYC) process involving the submission of identity and address verification documents to uphold program integrity and regulatory compliance.
 
 - Are you of legal age to enter into a binding contract in your jurisdiction?
   
