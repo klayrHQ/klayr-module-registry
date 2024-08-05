@@ -74,12 +74,11 @@ You find the solution for an open issue! Submit your proposal for evaluation. Th
 [check bounties](https://github.com/klayrHQ/klayr-module-registry/issues)
 
 
-### Review process 
+### Timelines 
 
 <10 business days
 
-In each evaluation process, the Klayr Bounty committee will screen your proposal and might ask for more details or clarifications during the process. This can take some time, but we aim to respond within 10 working days. If we ask for a revised proposal, please send it back within 10 working days or we might have to reject the original one.
-You'll be notified on the GitHub page. 
+Each stage of the process that requires screening by the Klayr Bounty committee might take some time, but we aim to respond within 10 working days. You'll be notified on the GitHub page. 
 
 
 
